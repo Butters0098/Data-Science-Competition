@@ -1,4 +1,5 @@
-This contains the code and data used to generate the rankings and matchup winning probabilities
+This contains the code and data used to generate the rankings and matchup winning probabilities, for more information, view WHSDSC25 Data minors.pdf
+
 Execute LogisticRegression.py to generate the data 
 
 About the Wharton Data Science Competition:

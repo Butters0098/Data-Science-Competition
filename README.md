@@ -1,4 +1,4 @@
-This contains the code and data used to generate the rankings and matchup winning probabilities, for more information, view WHSDSC25 Data minors.pdf
+This contains the code and data used to generate the rankings and matchup winning probabilities using a weighted combination of logistic regression and an Elo model predictions, for more information, view WHSDSC25 Data minors.pdf
 
 Execute LogisticRegression.py to generate the data 
 
